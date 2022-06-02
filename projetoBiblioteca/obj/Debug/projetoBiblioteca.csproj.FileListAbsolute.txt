@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\POO\projetoBiblioteca\bin\Debug\projetoBiblioteca.exe.config
+C:\Users\User\Desktop\POO\projetoBiblioteca\bin\Debug\projetoBiblioteca.exe
+C:\Users\User\Desktop\POO\projetoBiblioteca\bin\Debug\projetoBiblioteca.pdb
+C:\Users\User\Desktop\POO\projetoBiblioteca\obj\Debug\projetoBiblioteca.csprojAssemblyReference.cache
+C:\Users\User\Desktop\POO\projetoBiblioteca\obj\Debug\projetoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\POO\projetoBiblioteca\obj\Debug\projetoBiblioteca.exe
+C:\Users\User\Desktop\POO\projetoBiblioteca\obj\Debug\projetoBiblioteca.pdb
+C:\Users\User\Desktop\POO\projetoBiblioteca\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\POO\projetoBiblioteca\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\POO\projetoBiblioteca\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\POO\projetoBiblioteca\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\POO\projetoBiblioteca\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\POO\projetoBiblioteca\obj\Debug\projetoBiblioteca.csproj.CopyComplete
